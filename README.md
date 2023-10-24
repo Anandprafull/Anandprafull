@@ -25,7 +25,7 @@ I'm constantly learning and exploring new technologies and tools. Right now, I'm
 
 ## 📫 Let's Connect
 
-- LinkedIn: [(https://www.linkedin.com/in/prafull-anand/)](Link)
+- LinkedIn: https://www.linkedin.com/in/prafull-anand/
 - Email: [anandprafull007@gmail.com](mailto:anandprafull007@gmail.com)
 
 ## 📈 GitHub Stats
