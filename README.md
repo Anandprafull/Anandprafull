@@ -34,6 +34,5 @@ src="https://img.shields.io/github/followers/Anandprafull?logo=github&style=for-
 
 <a href="http://www.github.com/Anandprafull"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandprafull&stroke=14b8a6&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=14b8a6&currStreakLabel=a855f7&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/Anandprafull"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anandprafull&bg_color=0f172a&color=14b8a6&line=facc15&point=14b8a6&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Anandprafull" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandprafull&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
