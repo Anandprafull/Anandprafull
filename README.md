@@ -31,7 +31,6 @@ src="https://img.shields.io/github/followers/Anandprafull?logo=github&style=for-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Anandprafull"><img src="https://github-readme-stats.vercel.app/api?username=Anandprafull&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=14b8a6&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Anandprafull's GitHub stats" /></a>
-<a href="https://github.com/Anandprafull"><img src="https://github-readme-stats.vercel.app/api/commit-activity?username=Anandprafull&hide_title=true&hide_border=true&bg_color=0f172a&color=14b8a6&icon_color=facc15" alt="Lines of Code Changed" /></a>
 
 <a href="http://www.github.com/Anandprafull"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandprafull&stroke=14b8a6&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=14b8a6&currStreakLabel=a855f7&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
