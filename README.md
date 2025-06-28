@@ -9,7 +9,7 @@ I'm a Web3 and blockchain enthusiast with a strong focus on building decentraliz
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anandprafull007@gmail.com](mailto:anandprafull007@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
-* Check out my portfolio website at [https://prafull-anand.vercel.app/](https://prafull-anand.vercel.app/)
+* Check out my portfolio website at [https://prafull-anand.vercel.app/](https://prafullanand.netlify.app/)
 
 
 ---------------------
