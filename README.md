@@ -1,9 +1,12 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandprafull&label=Profile%20views&color=0e75b6&style=flat" alt="anandprafull /> </p>
+
+
+
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Prafull Anand
 =====================================================================================================================================
 
 Full Stack Developer || Blockchain Developer 
 -----------------------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandprafull&label=Profile%20views&color=0e75b6&style=flat" alt="anandprafull /> </p>
 
 
 I'm a Web3 and blockchain enthusiast with a strong focus on building decentralized solutions that integrate blockchain into everyday life. I’ve  hands-on experience working on scalable dApps and smart contracts.
