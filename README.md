@@ -1,25 +1,43 @@
 
 
-
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Prafull Anand
-=====================================================================================================================================
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandprafull&label=Profile%20views&color=0e75b6&style=flat" alt="anandprafull /> </p>
---------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandprafull&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 
-Full Stack Developer || Blockchain Developer 
-=====================================================================================================================================
+# 👋 Hi, I'm Prafull Anand
+
+🎓 Penultimate-year Computer Science student at MS Ramaiah Institute of Technology  
+🔐 Specializing in Cybersecurity, Full-Stack Development, Cloud Infrastructure & Blockchain  
+📍 Based in Bengaluru | Open to internships in Bengaluru, Hyderabad, Pune
 
 
-I'm a Web3 and blockchain enthusiast with a strong focus on building decentralized solutions that integrate blockchain into everyday life. I’ve  hands-on experience working on scalable dApps and smart contracts.
+## 💡 About Me
+
+I'm a systems thinker and backend enthusiast who thrives on mastering complexity and building reliable, scalable software. Whether it's optimizing algorithms, designing robust APIs, or orchestrating secure cloud-native infrastructure, I bring clarity, precision, and a deep curiosity to every project.
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anandprafull007@gmail.com](mailto:anandprafull007@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
+* 🧠 Passionate about **decentralized platforms**, **agentic systems**, and **confidential computing**
+* 🤖 Exploring **agentic development** for scalable automation and decision-making
+* ⛓️ Building **decentralized systems** with real-world resilience and censorship resistance
 * Check out my portfolio website at [PortFolio](https://prafullanand.netlify.app/)
 
 
----------------------
+
+## 🧰 Tech Stack
+
+| Domain               | Tools & Technologies                                                                 |
+|----------------------|--------------------------------------------------------------------------------------|
+| 💻 Full-Stack Dev     | Next.js, React, Node.js, TypeScript, Python, C++                                     |
+| ☁️ Cloud & Infra      | GKE, Terraform, CI/CD, Docker, Kubernetes                                             |
+| 🔐 Cybersecurity      | Secure API design, access control, infrastructure hardening                          |
+| 🧠 Agentic Systems     | Multi-agent architectures, autonomous workflows, API orchestration                  |
+| ⛓️ Blockchain          | Smart contracts, decentralized identity, censorship-resistant infra (Solidity, IPFS)|
+| 📊 Data & Analytics   | Spark, Hadoop, HDFS, Business Intelligence, Neo4j (Cypher, APOC, schema optimization)|
+
+
+
 ![](https://github.com/Anandprafull/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/Anandprafull/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
