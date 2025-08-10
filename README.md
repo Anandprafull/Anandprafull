@@ -7,13 +7,7 @@
 
 🎓 Penultimate-year Computer Science student at MS Ramaiah Institute of Technology  
 🔐 Specializing in Cybersecurity, Full-Stack Development, Cloud Infrastructure & Blockchain  
-📍 Based in Bengaluru | Open to internships in Bengaluru, Hyderabad, Pune
-
-
-## 💡 About Me
-
-I'm a systems thinker and backend enthusiast who thrives on mastering complexity and building reliable, scalable software. Whether it's optimizing algorithms, designing robust APIs, or orchestrating secure cloud-native infrastructure, I bring clarity, precision, and a deep curiosity to every project.
-
+📍 Based in Bangalore | Open to internships in Bengaluru, Hyderabad, Pune or Remote roles
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anandprafull007@gmail.com](mailto:anandprafull007@gmail.com)
